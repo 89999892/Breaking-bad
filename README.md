@@ -1,16 +1,30 @@
-# bloc_training
+# Breaking Bad Flutter App
 
-A new Flutter project.
+[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white)](https://flutter.dev)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-blue)](https://flutter.dev/docs)
 
-## Getting Started
+A modern Flutter application showcasing characters, quotes, and episodes from the iconic TV series Breaking Bad, featuring a clean UI with dark/light theme support.
 
-This project is a starting point for a Flutter application.
+![App Demo](https://img.youtube.com/vi/nbzWyeMsj4s/maxresdefault.jpg)  
+*[Watch Demo Video](https://youtube.com/shorts/nbzWyeMsj4s?feature=share)*
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- **Character Catalog**: Grid/list view of all Breaking Bad characters
+- **Detailed Profiles**: 
+  - High-quality images
+  - Character metadata (nickname, occupation, status)
+  - Appeared-in episodes
+  - Famous quotes
+- **Advanced Search**: Filter characters by name, nickname, or actor
+- **Dark/Light Theme**: Automatic system theme detection with manual override
+- **Responsive Design**: Optimized for mobile and tablet layouts
+- **Episode Guide**: Season-by-season episode breakdowns
+- **Quote Collection**: Browse memorable quotes by character
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/89999892/Breaking-bad.git
